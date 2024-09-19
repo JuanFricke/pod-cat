@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/node,go
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,go
 
@@ -25,6 +26,8 @@
 go.work
 
 ### Node ###
+=======
+>>>>>>> f5ef8e4 (Initial commit)
 # Logs
 logs
 *.log
@@ -129,6 +132,10 @@ dist
 
 # vuepress v2.x temp and cache directory
 .temp
+<<<<<<< HEAD
+=======
+.cache
+>>>>>>> f5ef8e4 (Initial commit)
 
 # Docusaurus cache and generated files
 .docusaurus
@@ -154,6 +161,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
 
 ### Node Patch ###
 # Serverless Webpack directories
@@ -165,3 +173,5 @@ dist
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/node,go
+=======
+>>>>>>> f5ef8e4 (Initial commit)
